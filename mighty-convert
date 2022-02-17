@@ -1,0 +1,2 @@
+mkdir -p -v output/$1
+python convert.py $1 $2
