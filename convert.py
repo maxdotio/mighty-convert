@@ -16,11 +16,11 @@ feature_map = {
 	"default":"default",
 	"sequence-classification":"sequence-classification",
 	"question-answering":"question-answering",
-	"sentence-transformers":"default"
+	"sentence-transformers":"default",
+	"token-classification":"token-classification",
 	#"masked-lm":"masked-lm",
 	#"causal-lm":"causal-lm",
 	#"seq2seq-lm":"seq2seq-lm",
-	#"token-classification":"token-classification",
 	#"multiple-choice":"multiple-choice",
 }
 
